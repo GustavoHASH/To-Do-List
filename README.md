@@ -1,4 +1,4 @@
-#To-Do List App
+To-Do List App
 This is a simple to-do list app built with React. It allows you to add, update and delete items on your to-do list. You can easily keep track of the tasks that need to be done and mark them as completed.
 
 #Features
